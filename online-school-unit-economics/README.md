@@ -33,7 +33,7 @@ The analysis includes the following metrics:
 
 **Result:** Core team payroll can be increased by approximately **358,596 RUB**, from **1.38M RUB to 1.74M RUB**, while maintaining an 11% profit margin.
 
-![Core Team Payroll Scenario](images/task_1.png)
+![Core Team Payroll Scenario](screenshots/task_1.png)
 
 ---
 
@@ -45,7 +45,7 @@ The total number of lessons remains unchanged.
 
 **Result:** The profit margin increases from **-13.89% to 0.02%**, an improvement of **13.91 percentage points**.
 
-![Free Lessons Scenario](images/task_2.png)
+![Free Lessons Scenario](screenshots/task_2.png)
 
 ---
 
@@ -64,7 +64,7 @@ The scenario follows the relationship:
 - Profit margin increases from **2.51% to 6.74%**
 - Profit margin growth: **4.23 percentage points**
 
-![Retention Scenario](images/task_3.png)
+![Retention Scenario](screenshots/task_3.png)
 
 ---
 
